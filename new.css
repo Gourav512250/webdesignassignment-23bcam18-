@@ -1,19 +1,19 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  background-color: #8d5a5a;
   padding: 20px;
 }
 
 
 #page-title {
   text-align: center;
-  color: darkblue;
+  color: rgba(255, 61, 61, 0.652);
   margin-bottom: 20px;
 }
 
 
 .btn {
-  background-color: darkblue;
+  background-color: rgb(179, 125, 158);
   color: white;
   padding: 10px;
   border: none;
@@ -21,7 +21,7 @@ body {
   cursor: pointer;
 }
 .btn:hover {
-  background-color: navy;
+  background-color: rgb(101, 224, 232);
 }
 
 
@@ -45,9 +45,9 @@ input, select {
 
 
 input:focus, select:focus {
-  border-color: darkblue;
+  border-color: rgb(94, 235, 84);
   outline: none;
-  box-shadow: 0 0 5px rgba(0,0,255,0.3);
+  box-shadow: 0 0 5px rgba(75, 236, 113, 0.3);
 }
 
 
